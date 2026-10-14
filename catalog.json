@@ -1,0 +1,34 @@
+[
+  {
+    "sku": "KND-01",
+    "title": "Sisal kiondo bag, navy trim",
+    "description": "Hand-woven sisal kiondo tote with leather handles and navy trim, made by a Machakos weaving cooperative.",
+    "image": "images/knd-01.jpg",
+    "image_tags": ["kiondo", "bag", "sisal", "navy", "woven"],
+    "category": "bags"
+  },
+  {
+    "sku": "NK-99",
+    "title": "Nike tote bag, white",
+    "description": "Lightweight tote bag, great for gym or errands.",
+    "image": "images/nk-99.jpg",
+    "image_tags": ["kiondo", "sisal", "red", "woven"],
+    "category": "bags"
+  },
+  {
+    "sku": "SHU-07",
+    "title": "Canvas sneakers, white",
+    "description": "Low-top canvas sneakers with rubber sole, unisex sizing.",
+    "image": "images/shu-07.jpg",
+    "image_tags": ["shoe", "white", "canvas"],
+    "category": "shoes"
+  },
+  {
+    "sku": "KTG-14",
+    "title": "Kitenge wrap cloth, red maize print",
+    "description": "2.2m kitenge cloth, red and gold maize-cob print, sold by the piece.",
+    "image": "images/ktg-14.jpg",
+    "image_tags": ["leso", "cloth", "maize", "red"],
+    "category": "textiles"
+  }
+]

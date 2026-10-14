@@ -1,0 +1,5 @@
+task: feature-extraction
+model: openai/clip-vit-base-patch32
+revision: main
+device: cpu
+note: "live encode is optional; pin must still exist. See pipeline_smoke.py (LIVE_HF=1) and encode_cache.json for the offline-stub run actually committed here."

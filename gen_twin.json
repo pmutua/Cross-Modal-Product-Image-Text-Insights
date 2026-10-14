@@ -1,0 +1,10 @@
+{
+  "text_to_image": {
+    "managed": "OpenAI DALL-E (Images API)",
+    "oss": "Stable Diffusion via Diffusers or a hosted twin"
+  },
+  "provenance": {
+    "managed": "store request id + prompt hash",
+    "oss": "store checkpoint id + prompt hash"
+  }
+}

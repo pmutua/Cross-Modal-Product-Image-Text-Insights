@@ -1,0 +1,7 @@
+{
+  "encoder_id": "lab-bow-v1",
+  "source": "lab",
+  "revision": "sidecar-tags",
+  "honesty": "sidecar-tags",
+  "notes": "Scores in mismatch_report.json come from a bag-of-words cosine over image_tags (sidecar tags standing in for a real image encoder), not a Hugging Face Hub download. See hf_pipeline.yaml and pipeline_smoke.py for the optional live CLIP path and encode_cache.json for its (offline-stub) output."
+}

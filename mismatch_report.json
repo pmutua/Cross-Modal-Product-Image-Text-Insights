@@ -1,0 +1,22 @@
+[
+  {
+    "sku": "KND-01",
+    "score": 0.8944,
+    "flag": false
+  },
+  {
+    "sku": "NK-99",
+    "score": 0.0,
+    "flag": true
+  },
+  {
+    "sku": "SHU-07",
+    "score": 0.8165,
+    "flag": false
+  },
+  {
+    "sku": "KTG-14",
+    "score": 0.75,
+    "flag": false
+  }
+]

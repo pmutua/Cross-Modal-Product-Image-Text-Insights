@@ -1,0 +1,30 @@
+[
+  {
+    "sku": "KND-01",
+    "score": 0.8944,
+    "flag": false,
+    "seller_message": "Photo tags and title look aligned.",
+    "transcript": "Navy sisal kiondo, hand-woven, leather handles."
+  },
+  {
+    "sku": "NK-99",
+    "score": 0.0,
+    "flag": true,
+    "seller_message": "This listing is queued for review: the photo evidence and the title do not agree yet. Please check the photo and confirm or edit the title.",
+    "transcript": ""
+  },
+  {
+    "sku": "SHU-07",
+    "score": 0.8165,
+    "flag": false,
+    "seller_message": "Photo tags and title look aligned.",
+    "transcript": ""
+  },
+  {
+    "sku": "KTG-14",
+    "score": 0.75,
+    "flag": false,
+    "seller_message": "Photo tags and title look aligned.",
+    "transcript": ""
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "sku": "KND-01",
+  "generator": "stub",
+  "format": "png",
+  "prompt_file": "prompts\\gen\\kiondo_navy_stilllife_v1.txt",
+  "prompt_chars": 249,
+  "not_a_photo_of_the_sku": true
+}
